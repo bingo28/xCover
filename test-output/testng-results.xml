@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61039" started-at="2021-05-11T18:06:33 AEST" finished-at="2021-05-11T18:07:34 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61039" started-at="2021-05-11T18:06:33 AEST" finished-at="2021-05-11T18:07:34 AEST">
+      <class name="testcases.XCoverQuote">
+        <test-method status="PASS" signature="Login()[pri:0, instance:testcases.XCoverQuote@71423665]" name="Login" duration-ms="60915" started-at="2021-05-11T18:06:33 AEST" finished-at="2021-05-11T18:07:34 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.XCoverQuote -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
